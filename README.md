@@ -7,7 +7,7 @@ Dribble UI link: https://www.frontendmentor.io/challenges/advice-generator-app-Q
 I used HTML, SCSS and pure JS.
 
 ## Desktop view
-<img src="https://github.com/AlbertoDeMaria/CopyToClipboard/blob/master/dist/img/start.png">
+<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/desktop-view.png">
 
 ## Mobile view
-<img src="https://github.com/AlbertoDeMaria/CopyToClipboard/blob/master/dist/img/click%20to%20copy.png?raw=true">
+<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/mobile-view.png">
