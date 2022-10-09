@@ -2,7 +2,7 @@
 
 I used a Frontend Mentor challenge to train in fetch API.
 
-Dribble UI link: https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db
+Frontend Mentor challenge link: https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db
 
 I used HTML, SCSS and pure JS.
 
